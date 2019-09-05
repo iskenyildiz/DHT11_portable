@@ -1,0 +1,5 @@
+RPi.GPIO
+numpy
+pyserial
+scipy
+smbus-cffi

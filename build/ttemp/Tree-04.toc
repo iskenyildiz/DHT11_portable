@@ -1,0 +1,10 @@
+('/usr/local/lib/python2.7/dist-packages/smbus_cffi-0.5.1-py2.7-linux-armv7l.egg',
+ None,
+ set(['*.arm-linux-gnueabihf.so',
+      '*.py',
+      '*.pyc',
+      '*.so',
+      '*module.so',
+      'EGG-INFO']),
+ 'DATA',
+ [])

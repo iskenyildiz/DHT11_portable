@@ -1,0 +1,2 @@
+temperature,location=AS50055_Hurkus_Havayolu_Tasimacilik_ve_Ticaret_A.S. temp=23.0
+temperature,location=AS50055_Hurkus_Havayolu_Tasimacilik_ve_Ticaret_A.S. hum=21.0

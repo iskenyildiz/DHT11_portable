@@ -1,0 +1,10 @@
+('/home/pi/dht11/build/ttemp/grovepi-1.0.4-py2.7.egg',
+ None,
+ set(['*.arm-linux-gnueabihf.so',
+      '*.py',
+      '*.pyc',
+      '*.so',
+      '*module.so',
+      'EGG-INFO']),
+ 'DATA',
+ [])

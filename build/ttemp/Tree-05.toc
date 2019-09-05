@@ -1,0 +1,12 @@
+('/usr/local/lib/python2.7/dist-packages/pycparser-2.19-py2.7.egg',
+ None,
+ set(['*.arm-linux-gnueabihf.so',
+      '*.py',
+      '*.pyc',
+      '*.so',
+      '*module.so',
+      'EGG-INFO']),
+ 'DATA',
+ [('pycparser/_c_ast.cfg',
+   '/usr/local/lib/python2.7/dist-packages/pycparser-2.19-py2.7.egg/pycparser/_c_ast.cfg',
+   'DATA')])

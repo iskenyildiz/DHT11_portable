@@ -1,0 +1,10 @@
+('/home/pi/dht11/build/ttemp/Dexter_AutoDetection_and_I2C_Mutex-0.0.0-py2.7.egg',
+ None,
+ set(['*.arm-linux-gnueabihf.so',
+      '*.py',
+      '*.pyc',
+      '*.so',
+      '*module.so',
+      'EGG-INFO']),
+ 'DATA',
+ [])
